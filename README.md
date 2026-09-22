@@ -6,6 +6,14 @@ Repositório destinado à primeira prova de Desenvolvimento de Interfaces Web.
 - **Período:** 2026/2
 - **Professor:** João Paulo Aramuri
 
+## Arquivos
+ - **index.html** O esqueleto principal da página de perfil
+ - **index.css** O código de estilização da página
+ - **foto.png** A imagem usada de perfil do estudante
+ - **README.md** Usado para documentar as questôes fechadas
+
+
+
 ## Respostas das questões fechadas
 
 ### [5,0 pts] Questão 3
